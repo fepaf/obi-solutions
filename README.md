@@ -6,7 +6,7 @@ _Repositório de soluções de minha autoria._
 ### OBI2000
 - Modalidade Programação
   - [Fase única](/obi2000/ProvaOBI2000_f1p2.pdf)
-    - [Rede Ótica](https://neps.academy/br/exercise/302) | [solução]() |
+    - [Rede Ótica](https://neps.academy/br/exercise/302) | [solução](/obi2000/solutions/redeotica.cpp) |
     - [Quermesse](https://neps.academy/br/exercise/648) | [solução](/obi2000/solutions/quermesse.cpp) |
     - [Bits Trocados](https://neps.academy/br/exercise/649) | [solução](/obi2000/solutions/bitstrocados.cpp) |
     - [Saldo de Gols](https://neps.academy/br/exercise/650) | [solução](/obi2000/solutions/saldodegols.cpp) |
